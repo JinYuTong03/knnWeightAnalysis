@@ -7,7 +7,7 @@ output: github_document
 This package is a demonstration package designed to analyze the weights of different regression approaches and plot kNN estimates for various values of `k`.
 
 -   **GitHub URL (source code)**: [knnWeightAnalysis Repository](https://github.com/JinYuTong03/knnWeightAnalysisfinal)
--   **Pkgdown webpage**: [knnWeightAnalysis Documentation](https://username.github.io/knnWeightAnalysis/)
+-   **Pkgdown webpage**: [knnWeightAnalysis Documentation](file:///Users/yutongjin/Documents/knnWeightAnalysisfinal/docs/index.html)
 
 ## Purpose
 
@@ -19,10 +19,10 @@ To install this package from GitHub, use the following R code:
 
 ```{r}
 devtools::install_github("JinYuTong03/knnWeightAnalysisfinal")
-```
+
 
 This package was developed in the following environment.
 
 ```{r}
 devtools::session_info()
-```
+

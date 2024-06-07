@@ -20,3 +20,4 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://jinyutong03.github.io/knnWeightAnalysisfinal/
