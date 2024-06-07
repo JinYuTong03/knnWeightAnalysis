@@ -1,0 +1,22 @@
+Package: knnWeightAnalysis
+Title: kNN Estimation and Weight Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yutong", "Jin", email = "first.last@example.com", role = c("aut", "cre"), 
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package provides functions to estimate values using the k-nearest neighbors (kNN) method and analyze the weights of different regression approaches.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    FNN,
+    ggplot2,
+    reshape2,
+    dplyr,
+    splines,
+    magrittr,
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
